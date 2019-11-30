@@ -1,0 +1,33 @@
+h2 {
+    color: blue; 
+    color: #222222 !important ;
+    
+}
+body {
+    
+}
+main{
+    /* height: 500px;
+   width: 500px;
+    background-image: url(https://n1s1.hsmedia.ru/0b/f7/45/0bf745d47229e8a1703b57ac6a8792b4/620x429_1_9bb0f1efd33a96dac62c9ca78c070459@1200x831_0xac120003_1638107201574937096.jpg); */
+    /* background: rgb(2,0,36);
+background: linear-gradient(107deg, rgba(2,0,36,1) 0%, rgba(101,101,195,0.4918793503480279) 48%, rgba(0,212,255,1) 100%);  */
+width: 500px;
+height: 500px;
+border: 6px solid red;
+padding: 20px;
+margin: 20px;
+}
+p,
+li{
+    /* text-transform: capitalize; */
+    text-transform: uppercase;
+    font-size: 6px;
+    font-weight: bold;
+    font-style: italic;
+    padding: none;
+}
+ol {
+    padding: 0px 100px 30px 20px;
+}
+
